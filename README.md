@@ -3,7 +3,7 @@
 The objective of this project is to analyze customer purchasing patterns and behaviors within a dataset of 3,900 transactions, focusing on key factors such as age, gender, product category, seasonality, and customer satisfaction. By examining these variables, the goal is to uncover meaningful insights into who buys what, when, and why helping to identify high-value customer segments, seasonal sales trends, and potential marketing opportunities. Ultimately, the project aims to support data-driven decision-making in e-commerce strategy, product planning, and targeted promotions for improved customer engagement and sales performance.
 
 ## Dataset
--	<a href=" https://1drv.ms/x/c/b1379becc483faad/EQIGb0D3gFpCvVegjTSDY84BlW5nC7u7n4TUnjA9OaOFsg">Dataset</a>
+-	<a href="https://1drv.ms/x/c/b1379becc483faad/EQIGb0D3gFpCvVegjTSDY84BlW5nC7u7n4TUnjA9OaOFsg">Dataset</a>
 
 ## KPQs
 -	Which age group contributes the most to total purchases?
